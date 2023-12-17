@@ -27,3 +27,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperkosay&show_icons=true&locale=en" alt="alperkosay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperkosay&" alt="alperkosay" /></p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/alperkosay/alperkosay/output/snake.svg" alt="Snake animation" />
+
+###
