@@ -28,10 +28,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperkosay&" alt="alperkosay" /></p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alperkosay/alperkosay/output/snake.svg" alt="Snake animation" />
-
-###
