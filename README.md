@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperkosay&label=Profile%20views&color=0e75b6&style=flat" alt="alperkosay" /> </p>
 
-- 🔭 I’m currently working on **Rentco Web**
+- 🔭 I’m currently working on **My personal website**
 
 - 🌱 I’m currently learning **Typescript & Next.js**
 
