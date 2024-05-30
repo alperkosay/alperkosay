@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alper.kossay@gmail.com**
 
-- ⚡ Fun fact **I like old thinkpads**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
